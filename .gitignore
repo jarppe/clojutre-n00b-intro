@@ -2,4 +2,11 @@ pom.xml
 *jar
 /lib/
 /classes/
-.lein-deps-sum
+.lein-*
+/target/
+/bin/
+/classes/
+.project
+.settings
+.classpath
+
